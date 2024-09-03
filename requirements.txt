@@ -11,4 +11,5 @@ unstructured
 unstructured[docx]
 unstructured[pdf]
 docx2txt
+pypdf
 PyPDF2

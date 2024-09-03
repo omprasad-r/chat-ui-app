@@ -13,7 +13,7 @@ from streamlit_chat import message
 import streamlit.config
 import codecs
 import docx2txt
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 #import pdfplumber
 from io import StringIO
 from lc_utils import *
